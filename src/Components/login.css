@@ -1,0 +1,33 @@
+.login {
+  margin: auto;
+}
+.password {
+  height: 30px;
+  margin-bottom: 20px;
+  color: blue;
+  max-width: 300px;
+  border: 1px solid blue;
+}
+
+.userName {
+  height: 30px;
+  margin-bottom: 20px;
+  color: blue;
+  max-width: 300px;
+  border: 1px solid blue;
+}
+.submit {
+  padding: 6px;
+  background-color: white;
+  border: none;
+}
+.submit:hover {
+  border: 1px solid blue;
+  cursor: pointer;
+}
+.welcome {
+  padding-bottom: 20px;
+  font-size: 30px;
+  color: blue;
+  font-family: sans-serif;
+}

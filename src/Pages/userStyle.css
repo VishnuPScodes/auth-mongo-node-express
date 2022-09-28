@@ -1,0 +1,18 @@
+.datas{
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+  font-weight: 500;
+}
+.datas>div{
+  border: 1px solid blue;
+  margin-top: 15px;
+  height: 30px;
+  max-width: 400px;
+
+}
+.datas>div:hover{
+  background-color: blue;
+  color: white;
+}
